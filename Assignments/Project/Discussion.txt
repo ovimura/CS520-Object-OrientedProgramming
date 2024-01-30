@@ -1,0 +1,32 @@
+ovymura: I think we need to know before the presentation what we need to say even if we have a simple outline
+what do you think?
+
+
+dominic.tippabattuni: we will start with what PDA is ..
+2) what we tried to do..
+3) how far we have achieved it..
+
+
+ovymura: and what we didn't accomplished
+
+
+dominic.tippabattuni: 4) how we downsized our scope considering time as a factor
+
+
+ovymura: ok
+
+
+dominic.tippabattuni: 5) future work to give user the ability to create a language.
+6) and difficulties faced while creating morphs..
+and we need to be ready to answer his questions
+
+
+ovymura: yeah,
+related to implementation?
+
+
+dominic.tippabattuni: yup
+we will talk about why we have so manu objects...
+
+
+Sent at 11:32 AM on Thursday
